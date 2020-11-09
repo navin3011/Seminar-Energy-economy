@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26db4f22-e80a-40d1-b8e6-4c8b0672f755" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.coveragerc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.readthedocs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MANIFEST.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/about.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/about/authors.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/about/changelog.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/about/installation.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/about/license.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/about/tutorials.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/converter.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/make.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/networks.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/pics/20190227_SimBench_Code_60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/pics/20190227_SimBench_Subnet_60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/pics/Logo_SimBench.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/pics/e2n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/pics/grid_preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/pics/iee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/pics/pp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/pics/voltage_limits_50160_03_smaller.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-plot.html" beforeDir="false" afterPath="$PROJECT_DIR$/temp-plot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_demo.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dT3wF6SYVMX3B0aL0OUerqNlX9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Grid_munich" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26db4f22-e80a-40d1-b8e6-4c8b0672f755" name="Default Changelist" comment="" />
+      <created>1592435492016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592435492016</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
